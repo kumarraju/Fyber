@@ -1,0 +1,6 @@
+compile
+test
+run
+run C:\Users\Kumar\IdeaProjects\FyberChallenge\src\main\resources\input.data
+sbt run C:\Users\Kumar\IdeaProjects\FyberChallenge\src\main\resources\input.data
+exit
